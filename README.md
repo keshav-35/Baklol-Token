@@ -3,5 +3,4 @@ I have started learning about Blockchain 1 month ago and this is my first projec
 ### Details-Of-Project
 Language Used - Solidity;  
   Tool Used - Remix IDE;
-  
   Test Network Used - Ropsten Test Network;
